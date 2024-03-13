@@ -1,0 +1,4 @@
+[14.03.24 00.06.07.433077100] --- Transfer(cardFromNumber=1111111111111111, cardFromValidTill=12/30, cardFromCVV=123, cardToNumber=2222222222222222, amount=Amount(value=100000.0, currency=RUR)), operation id: 1
+[14.03.24 00.06.07.487576500] --- Transfer(cardFromNumber=1111111111111111, cardFromValidTill=12/30, cardFromCVV=123, cardToNumber=2222222222222222, amount=Amount(value=100000.0, currency=RUR)), operation id: 1
+[14.03.24 00.07.15.326862200] --- Transfer(cardFromNumber=1111111111111111, cardFromValidTill=12/30, cardFromCVV=123, cardToNumber=2222222222222222, amount=Amount(value=100000.0, currency=RUR)), operation id: 1
+[14.03.24 00.07.15.362862600] --- Transfer(cardFromNumber=1111111111111111, cardFromValidTill=12/30, cardFromCVV=123, cardToNumber=2222222222222222, amount=Amount(value=100000.0, currency=RUR)), operation id: 1
